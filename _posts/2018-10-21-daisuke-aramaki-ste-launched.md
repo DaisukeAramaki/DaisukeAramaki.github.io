@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Daisuke Aramaki, Mad Dog, Launches Site"
+title: "Mad Dog Daisuke Aramaki launches site"
 date: 2018-10-21
 ---
 
