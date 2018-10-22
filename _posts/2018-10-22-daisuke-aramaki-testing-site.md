@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Testing Jekyll and Github pages"
+title: "Testing Github Pages"
 date: 2018-10-22
 ---
 
-So, testing Jekyll and github pages further today. Some amount of troubleshooting going on here and there to fix some bugs. And then I will start exploring Jekyll themes for some fun.
+I have started playing around a bit with this setup and hopefully I'll be able to tune the site to meet my expectations in a week or so. Please keep watching. While you are here, please check out my other blog - [A Physicist's Wastebasket](https://theoretischephysiker.wordpress.com). I talk about my other interests, physics and other day to day happenings there. I will use this place for my professional contributions and talk exclusively about technology related matters.
