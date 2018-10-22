@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Daisuke Aramaki's Blog</title>
+ <link href="http://DaisukeAramaki.github.io/blog/atom.xml" rel="self"/>
+ <link href="http://DaisukeAramaki.github.io/blog"/>
+ <updated>2018-10-23T03:54:56+09:00</updated>
+ <id>http://DaisukeAramaki.github.io/blog</id>
+ <author>
+   <name>Daisuke Aramaki</name>
+   <email>murugan.prem.k@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Mad Dog Daisuke Aramaki launches site</title>
+   <link href="http://DaisukeAramaki.github.io/blog/2018/10/21/daisuke-aramaki-ste-launched"/>
+   <updated>2018-10-21T00:00:00+09:00</updated>
+   <id>http://DaisukeAramaki.github.io//blog/2018/10/21/daisuke-aramaki-ste-launched</id>
+   <content type="html">&lt;p&gt;Well. Finally got around to putting this old website together. Neat thing about it - powered by &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
