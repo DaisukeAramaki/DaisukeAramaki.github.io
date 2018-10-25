@@ -26,4 +26,8 @@ ul.posts li { list-style: none; }
 .cv h2 { font-size: 2em; }
 .cv address, .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 .cv address, .cv p { font-size: 1.2em; }
-.cv .download { float: right; font-size: .8em; text-transform: uppercase; }
+/*.cv .download { float: right; font-size: .8em; text-transform: uppercase; } */
+#hp  {
+    float: right;
+    margin: 0 0 0 15px;
+}
