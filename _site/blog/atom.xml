@@ -4,7 +4,7 @@
  <title>Daisuke Aramaki's Blog</title>
  <link href="http://DaisukeAramaki.github.io/blog/atom.xml" rel="self"/>
  <link href="http://DaisukeAramaki.github.io/blog"/>
- <updated>2018-10-28T21:52:43+09:00</updated>
+ <updated>2018-10-29T01:42:27+09:00</updated>
  <id>http://DaisukeAramaki.github.io/blog</id>
  <author>
    <name>Daisuke Aramaki</name>
@@ -39,7 +39,11 @@
    <link href="http://DaisukeAramaki.github.io/blog/2018/10/21/daisuke-aramaki-site-launched"/>
    <updated>2018-10-21T00:00:00+09:00</updated>
    <id>http://DaisukeAramaki.github.io//blog/2018/10/21/daisuke-aramaki-site-launched</id>
-   <content type="html">&lt;p&gt;Well. Finally got around to putting this old website together. Neat thing about it - powered by &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Well. Finally got aroung to putting this old website together.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://static.comicvine.com/uploads/scale_small/1/10135/264528-195150-aramaki.jpg&quot; alt=&quot;Daisuke Aramaki&quot; class=&quot;img-responsive&quot; height=&quot;139px&quot; width=&quot;120px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Neat thing about it - powered by &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.&lt;/p&gt;
 </content>
  </entry>
  
