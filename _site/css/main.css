@@ -31,6 +31,6 @@ ul li{
 }
 /*.cv .download { float: right; font-size: .8em; text-transform: uppercase; } */
 #hp  {
-    float: right;
-    margin: 0 0 0 15px;
+    /*float: center;*/
+    /*margin: 0 0 0 15px;*/
 }
