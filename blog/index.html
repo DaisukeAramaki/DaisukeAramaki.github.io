@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prem aka Daisuke Aramaki's Blog
+title: Blog
 ---
 <h1>{{ page.title }}</h1>
 <ul class="posts">
@@ -8,5 +8,5 @@ title: Prem aka Daisuke Aramaki's Blog
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}" title="{{ post.title }}" style="color:#009DDB">{{ post.title }}</a></li>
   {% endfor %}
-    
+
 </ul>
