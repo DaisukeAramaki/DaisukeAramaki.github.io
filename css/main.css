@@ -3,7 +3,7 @@ body { margin: 60px auto; width: 70%; }
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
 
-p, ul {  font-family: 'Roboto Condensed', 'Arial', 'Sans-Serif'; font-size: 1.0em; line-height: 1.4em; color: #333; }
+p, ul {  font-family: 'Roboto', 'Arial', 'Sans-Serif'; font-size: 1.0em; line-height: 1.4em; color: #333; }
 
 h1, h2, h3, h4 { font-family: 'Roboto Condensed', 'Arial', 'Sans-Serif'; }
 h1 { font-size: 3em;  }
