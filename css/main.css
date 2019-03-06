@@ -1,43 +1,43 @@
 /*<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fjalla+One">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=ITCOfficinaSerif LT Book"> */
-/*@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
-@import url('https://fonts.googleapis.com/css?family=Roboto'); */
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto"> */
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 
-@font-face {
+/*@font-face {
     font-family:ITCOfficinaSerif;
     src: url("../.git/DaisukeAramaki.github.io/fonts/ITC Officina Serif LT Book.ttf") format('truetype');
-}
+}*/
 
 body { margin: 60px auto; width: 70%; }
 
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
 
-p, ul {  font-family: 'ITCOfficinaSerif LT Book', 'Arial', 'Sans-Serif'; font-size: 1.0em; line-height: 1.4em; color: #333; }
+p, ul {  font-family: 'Roboto', 'Arial', 'Sans-Serif'; font-size: 1.0em; line-height: 1.4em; color: #333; }
 
-h1, h2, h3, h4 { font-family: 'ITCOfficinaSerif LT Book', 'Arial', 'Sans-Serif'; }
+h1, h2, h3, h4 { font-family: 'Fjalla One', 'Arial', 'Sans-Serif'; }
 h1 { font-size: 3em;  }
 h2 { font-size: 2.7em; }
 h3 { font-size: 2.3em; }
 h4 { font-size: 1.9em; }
 
-nav ul, footer ul { font-size: 1em; font-family: 'ITCOfficinaSerif LT Book Condensed', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
+nav ul, footer ul { font-size: 1em; font-family: 'Roboto Condensed', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
 /* Blog */
-ul.posts {margin: 20px auto 40px; font-family: 'ITCOfficinaSerif LT Book', 'Arial', 'Sans-Serif'; font-size: 1.2em; }
+ul.posts {margin: 20px auto 40px; font-family: 'Roboto', 'Arial', 'Sans-Serif'; font-size: 1.2em; }
 ul.posts li {list-style: none; }
 
 /* CV */
 .cv { margin: 0px 0px 60px; }
 .cv h1 { font-size: 2.5em; }
 .cv h2 { font-size: 1.6em; }
-.cv address, .cv .download { font-family: 'ITCOfficinaSerif LT Book', 'Arial', 'Sans-Serif'; }
-.cv address, .cv p { font-family: 'ITCOfficinaSerif LT Book', 'Arial', 'Sans-Serif'; font-size: 1.0em; }
+.cv address, .cv .download { font-family: 'Fjalla One', 'Arial', 'Sans-Serif'; }
+.cv address, .cv p { font-family: 'Roboto', 'Arial', 'Sans-Serif'; font-size: 1.0em; }
 ul li{
-    font-family: 'ITCOfficinaSerif LT Book', 'Arial', 'Sans-Serif'; font-size: 1em;
+    font-family: 'Roboto', 'Arial', 'Sans-Serif'; font-size: 1em;
 }
 /*.cv .download { float: right; font-size: .8em; text-transform: uppercase; } */
 #hp  {
