@@ -1,14 +1,14 @@
 /*<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fjalla+One">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto"> */
 @import url('https://fonts.googleapis.com/css?family=Fjalla+One');
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
 
 body { margin: 60px auto; width: 70%; }
 
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
 
-p, ul {  font-family: 'Roboto', 'Arial', 'Sans-Serif'; font-size: 1.0em; line-height: 1.4em; color: #333; }
+p, ul {  font-family: 'Merriweather', serif; 'Arial', 'Sans-Serif'; font-size: 1.0em; line-height: 1.4em; color: #333; }
 
 h1, h2, h3, h4 { font-family: 'Fjalla One', 'Arial', 'Sans-Serif'; }
 h1 { font-size: 3em;  }
@@ -22,7 +22,7 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
 /* Blog */
-ul.posts {margin: 20px auto 40px; font-family: 'Roboto', 'Arial', 'Sans-Serif'; font-size: 1.2em; }
+ul.posts {margin: 20px auto 40px; font-family: 'Merriweather', serif; 'Arial', 'Sans-Serif'; font-size: 1.2em; }
 ul.posts li {list-style: none; }
 
 /* CV */
@@ -30,9 +30,9 @@ ul.posts li {list-style: none; }
 .cv h1 { font-size: 2.5em; }
 .cv h2 { font-size: 1.6em; }
 .cv address, .cv .download { font-family: 'Fjalla One', 'Arial', 'Sans-Serif'; }
-.cv address, .cv p { font-family: 'Roboto', 'Arial', 'Sans-Serif'; font-size: 1.0em; }
+.cv address, .cv p { font-family: 'Merriweather', serif; 'Arial', 'Sans-Serif'; font-size: 1.0em; }
 ul li{
-  font-family: 'Roboto', 'Arial', 'Sans-Serif'; font-size: 1em;
+    font-family: 'Merriweather', serif; 'Arial', 'Sans-Serif'; font-size: 1em;
 }
 /*.cv .download { float: right; font-size: .8em; text-transform: uppercase; } */
 #hp  {
