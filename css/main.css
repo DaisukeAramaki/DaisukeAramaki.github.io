@@ -5,7 +5,7 @@
 
 *@font-face {
     font-family:ITCOfficinaSerif;
-    src: url('../ITC Officina Serif LT Book.ttf') format('truetype');
+    src: url('ITC Officina Serif LT Book.ttf') format('truetype');
 }
 
 body { margin: 60px auto; width: 70%; }
